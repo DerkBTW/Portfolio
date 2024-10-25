@@ -1,0 +1,1 @@
+Any masks placed here will be shown in the Mask Library of the Wordcloud Tool.

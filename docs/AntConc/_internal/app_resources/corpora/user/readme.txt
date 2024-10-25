@@ -1,0 +1,1 @@
+Any corpora db files placed here will be shown in the User Library of the Corpus Manager.
