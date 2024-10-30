@@ -1,4 +1,40 @@
             body {
                 background: Lavender;
             }
-            
+            div.flex{
+                display:flex; width:80%;
+                background: #7BB696;
+                margin: auto;
+            }
+            div.flex figure img{
+                width:70%
+            }
+figure.scan {
+    margin:auto;
+    width:70%;
+}
+
+iframe {
+    margin:auto;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    background: #967BB6;
+}
+
+nav {
+    width:100%;
+    background: #DCC7B6;
+}
+
+nav ul{display:flex;
+justify-content: space-around;
+width:80%;
+list-style-type:none;
+}
+
+nav ul li{
+    padding:1vw
+}
+
+nav ul li:hover {background: #CBDCB6;
+}
