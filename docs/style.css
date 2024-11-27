@@ -7,8 +7,10 @@
                 margin: auto;
             }
             div.flex figure { 
-            text-align: center; 
-            background-color:silver;
+                margin:auto;
+                text-align: center; 
+                background-color:silver;
+                border: 1px solid black;
             }
             div.flex figure img{
                 width:70%;
