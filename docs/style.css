@@ -6,8 +6,12 @@
                 background: #7BB696;
                 margin: auto;
             }
+            div.flex figure { 
+            text-align: center; 
+            background-color:silver;
+            }
             div.flex figure img{
-                width:70%
+                width:70%;
             }
 figure.scan {
     margin:auto;
